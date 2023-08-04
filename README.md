@@ -12,4 +12,4 @@ Descripción breve proyectos:
 - Jerarquia catálogo de productos: como organizar a nivel de familias,sub-familias, productos.
 - Demanda intermitente: como controlar los momentos de roturas de stock o no ventas en ciertos periodos de tiempo.
 
-_Note: Cada proyecto tiene su archivo yaml correspondiente, que contiene los paquetes con las versiones específicas del proyecto.[leadscoring.yaml](https://github.com/MariusBD/Data_Science_Portfolio/tree/main/LeadScoring/01_Documentos)
+_Note: Cada proyecto tiene su archivo yaml correspondiente, que contiene los paquetes con las versiones específicas del proyecto.Este archivo se encuentra en la carpeta Documentos.
