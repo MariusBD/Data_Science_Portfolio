@@ -2,7 +2,7 @@
 
 Este repositorio contiene proyectos del mundo Data Science.El objetivo principal de estos proyectos es utilizar técnicas de machine learning para poder resolver objetivos de negocio.
 
-Descripción breve proyectos:
+## Descripción breve de los proyectos:
 
 [Lead Scoring](https://github.com/MariusBD/Data_Science_Portfolio/tree/main/LeadScoring/03_Notebooks/02_Desarrollo): Desarrollo de un modelo de puntuación de leads(potenciales clientes) basado en machine learning que permitirá a la empresa centrarse en la gestión prioritaria de los leads con mayor potencial comercial.Este proyecto surge para resolver un problema y es que hay empresas que generan muchos leads a partir de diferentes acciones de marketing y publicidad hasta tal punto que la red comercial no es capaz de gestionar todos esos leads generados y al mismo tiempo reciben leads de mala calidad, esto implica que los comerciales pierden mucho tiempo gestionando leads de poco valor.El modelo hará todo ese trabajo de seleccionar los mejores leads para pasarlos a la red comercial, en base al histórico de datos.
 
