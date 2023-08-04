@@ -11,3 +11,5 @@ Descripción breve proyectos:
 - La modelización masiva: como hacer modelización para cientos de productos al mismo tiempo.
 - Jerarquia catálogo de productos: como organizar a nivel de familias,sub-familias, productos.
 - Demanda intermitente: como controlar los momentos de roturas de stock o no ventas en ciertos periodos de tiempo.
+
+_Note: Cada proyecto tiene su archivo yaml correspondiente, que contiene los paquetes con las versiones específicas del proyecto.[leadscoring.yaml](https://github.com/MariusBD/Data_Science_Portfolio/tree/main/LeadScoring/01_Documentos)
