@@ -17,3 +17,5 @@ Descripción breve proyectos:
  [![FR.jpg](https://i.postimg.cc/R02xsKyR/FR.jpg)](https://postimg.cc/Ffb61d9d)
 
 _Note: Cada proyecto tiene su archivo yaml correspondiente, que contiene los paquetes con las versiones específicas del proyecto.Este archivo se encuentra en la carpeta Documentos.
+
+Herramientas utilizadas: scikit-learn,Pandas,Numpy,Matplotlib,Seaborn
