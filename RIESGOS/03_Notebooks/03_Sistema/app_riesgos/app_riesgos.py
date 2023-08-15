@@ -10,7 +10,7 @@ st.set_page_config(
 
 #SIDEBAR
 with st.sidebar:
-    st.image('risk_score.jpg')
+    
 
     #INPUTS DE LA APLICACION
     principal = st.number_input('Importe Solicitado', 500, 50000)
